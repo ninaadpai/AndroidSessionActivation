@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidSessionActivation</string>
+    <string name="GPSAlertDialogTitle">Location Permission</string>
+    <string name="GPSAlertDialogMessage">Enable GPS?</string>
+    <string name="action_settings">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="welcomeString">WELCOME!</string>
+    <string name="ageHint">Age</string>
+    <string name="connectButton">Connect</string>
+    <string name="femaleButton">Female</string>
+    <string name="maleButton">Male</string>
+</resources>
